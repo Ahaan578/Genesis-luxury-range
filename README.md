@@ -1,5 +1,5 @@
 <!Doctype html>
 <html>
 <body>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<h1> Introduction To Genesis Luxury Range </h1>
 
