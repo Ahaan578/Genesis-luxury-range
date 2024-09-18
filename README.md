@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <body>
-<h1> Introduction To Genesis Luxury Range </h1>
+<h1 align="center"> Introduction To Genesis Luxury Range </h1>
 <p align="center">
 <img src="genesis-gv90.jpg" width="800" height="400" />
 </p>
