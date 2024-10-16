@@ -8,7 +8,7 @@
 <p align="center">
 Genesis has been gaining popularity over the years, you must have seen it atleast once on the roads. Genesis is the luxury version of hyundai in simple words. It has many great and good priced cars such as the GV90,GV80 and the GV70 and so on. Genesis is founded by the owner of Hyundai (Chung Ju-yung).
 </P>
-<p align="center">
+<P align="center">
   <p> The founder of Genesis (HYUNDAI) </p>
   <p align="center">
 <img src="hyundai yea.webp" width="400" height="350" />
