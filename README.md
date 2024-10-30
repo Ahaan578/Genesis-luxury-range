@@ -11,6 +11,7 @@ Genesis has been gaining popularity over the years, you must have seen it atleas
     <H4 align="center"> The founder of Hyundai motor group.
   <p align="center">
 <img src="hyundai yea.webp" width="400" height="350" />
-<a href="https://github.com/yug233/Advirtisement-for-Hyundai/blob/main/README.md"><img src="pexels-pixabay-159866.jpg" alt="what you want audio descriptions to call it" style="width:400px;height:400px;"></a
+      
+<a href="https://github.com/yug233/Advirtisement-for-Hyundai/blob/main/README.md"><img src="logo4.jpg" alt="what you want audio descriptions to call it" style="width:400px;height:400px;"></a
 
 
