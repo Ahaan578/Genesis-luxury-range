@@ -11,7 +11,7 @@ Genesis has been gaining popularity over the years, you must have seen it atleas
 
 <img src="hyundai yea.webp" width="430" height="330" /> <img src="arrow imgae rightwars.png" width="200" height="100" />
 <p> How Genesis was formed?</p>
-<a href="github.com/Ahaan578/How-Genesis-was-formed/edit/main/README.md"><img src="amazing car.jpeg" alt="what you want audio descriptions to call it" style=width:430px,height:230px,"></a>
+<a href="https://github.com/Ahaan578/How-Genesis-was-formed"><img src="amazing car.jpeg" alt="what you want audio descriptions to call it" style=width:430px,height:230px,"></a>
 
 
       
